@@ -7,11 +7,11 @@ Display a summary of **_total sales_**, **_profits_**, and **_quantity_** for th
 
 ### <ins>Sales Trends</ins>
 
-Present the data for each KPI on a **_monthly basis_** for both the **current year** and the **previous year**.
+  - Present the data for each KPI on a **_monthly basis_** for both the **current year** and the **previous year**.
 
-Identify months with **_highest and lowest_** sales and make them easy to recognize.
+  - Identify months with **_highest and lowest_** sales and make them easy to recognize.
 
-• Use Sparkline Chart(displays max and min values)
+    • Use Sparkline Chart(displays max and min values)
 
 
 ### <ins>Product Subcategory Comparison</ins>
