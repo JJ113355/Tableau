@@ -1,8 +1,7 @@
 ### <ins>KPI Requirements</ins>
 
-Display a summary of **_total sales_**, **_profits_**, and **_quantity_** for the **current year** and the **previous year**.
-
-• Use BANS Chart
+  - Display a summary of **_total sales_**, **_profits_**, and **_quantity_** for the **current year** and the **previous year**.
+    - Use BANS Chart
 
 
 ### <ins>Sales Trends</ins>
@@ -13,8 +12,6 @@ Display a summary of **_total sales_**, **_profits_**, and **_quantity_** for th
 
 ### <ins>Product Subcategory Comparison</ins>
 
-Compare sales performace by different **PRODUCT SUBCATEGORIES** for the current year and the previous year.
-
-Include a comparision of **SALES WITH PROFIT**.
-
-•  Use Bar Chart (BAR-IN-BAR) to compare both previous and current year
+  - Compare sales performace by different **PRODUCT SUBCATEGORIES** for the current year and the previous year.
+  - Include a comparision of **SALES WITH PROFIT**.
+    - Use Bar Chart (BAR-IN-BAR) to compare both previous and current year
