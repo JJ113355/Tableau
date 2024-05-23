@@ -17,7 +17,5 @@ Identify months with **_highest and lowest_** sales and make them easy to recogn
 <ins>Product Subcategory Comparison</ins>
 
 Compare sales performace by different **PRODUCT SUBCATEGORIES** for the current year and the previous year.
-
 Include a comparision of **SALES WITH PROFIT**.
-
 •  Use Bar Chart (BAR-IN-BAR) to compare both previous and current year
