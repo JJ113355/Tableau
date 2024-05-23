@@ -21,4 +21,4 @@
   - Present Weekly Sales and Profit data for the current year.
   - Display the average weekly values.
   - Highlight weeks that are above and below tha average to draw attention to sales & profit performance.
-    - 
+    - Use </ins>Line Chart
